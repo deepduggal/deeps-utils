@@ -8,6 +8,6 @@ These exist because of an actual need, things that a dev didn't want to repeat. 
 
 ## Other Libraries
 | Library | Why                                                                      |
-| ------- |
+| ------- | ------------------------------------------------------------------------ |
 | Lodash  | Utilities for arrays, objects, strings, sequences, collections, and more |
 | Axios   | Data Fetching                                                            |
